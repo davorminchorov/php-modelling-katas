@@ -1,0 +1,16 @@
+{
+    "name": "davorminchorov/php-modelling-katas",
+    "description": "The CRUD Science modelling katas written in PHP",
+    "require-dev": {
+        "laravel/sail": "^v1.26.0",
+        "phpspec/phpspec": "^7.4",
+        "phpstan/phpstan": "^1.10",
+        "friendsofphp/php-cs-fixer": "^3.38",
+        "qossmic/deptrac-shim": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Davor Minchorov"
+        }
+    ]
+}

@@ -1,2 +1,3 @@
-# php-modelling-katas
-The CRUD Science modelling katas written in PHP
+# PHP Modelling Katas
+
+The CRUD Science modelling katas written in PHP.
