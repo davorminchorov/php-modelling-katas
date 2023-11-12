@@ -12,5 +12,10 @@
         {
             "name": "Davor Minchorov"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
 }
